@@ -57,11 +57,18 @@ La [Html-Template-Engine library](https://github.com/alesanchezr/html-template-e
 
 
 
------------------ GRUPO 3 ---------------------------------
+## Grupo 3
+
 Yarumis Rodriguez - Contact
+
 Carlos D'Lacoste - First Heading
+
 Andres Torres - Second Heading 
+
 Elias Loreto - NAVBAR
+
 Rafael Jimenez - Tagline 
+
 Paulo Riveiro - Portfolio
+
 
