@@ -17,10 +17,13 @@ body{
     height: 600px;
 
     position: relative;
+    /* opacity: 0.90; */
  }
-    
-.text-over-img {
-    z-index:1;
-    /* font-size: 1.2em; */
-    margin-top: -100px;
-}
+
+ .tagline-border{
+    text-align: center;
+    background-color: #F5F9FC;
+    color: black;
+    padding: 18px;
+    opacity: 0.85;
+ }
