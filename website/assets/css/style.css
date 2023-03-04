@@ -1,4 +1,26 @@
 body{
     background: #fefefe;
-    margin: 5rem; /* paulo // Agregué esto aca para darle espaciado a la pagina entera*/
+    /* margin: 5rem;  */ /* Rafael:Comente esto porque no permite colocar el Navbar y el tagline pantalla completa */
+    /* paulo // Agregué esto aca para darle espaciado a la pagina entera*/
+}
+
+/* PARA EL TAGLINE */
+.tagline-parent {
+    /* The image used */
+    background-image: url("../img/bg.jpg");
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 600px;
+
+    position: relative;
+ }
+    
+.text-over-img {
+    z-index:1;
+    /* font-size: 1.2em; */
+    margin-top: -100px;
 }
